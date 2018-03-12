@@ -1,0 +1,20 @@
+{
+  "name": "express-personal-api",
+  "version": "1.0.0",
+  "description": "It's time to have some fun and play with the technologies you've learned in the past week. Your goal is to build a API about yourself. Your API will incorporate: * Well-documented **JSON API** Endpoints * A full set of **REST-ful Routes** (GET, POST, UPDATE, DELETE) * At least one **CRUD-able resource** (Create, Read, Update, Destroy) * and an `/api/profile` endpoint with some basic **details about you**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubamex209/express-personal-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubamex209/express-personal-api/issues"
+  },
+  "homepage": "https://github.com/cubamex209/express-personal-api#readme"
+}
